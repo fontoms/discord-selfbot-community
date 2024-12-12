@@ -1,0 +1,30 @@
+{
+  "name": "discord-selfbot-community",
+  "version": "1.0.0",
+  "description": "A selfbot for the Discord community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontoms/discord-selfbot-community.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "selfbot",
+    "bump",
+    "disboard"
+  ],
+  "author": "fontoms",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fontoms/discord-selfbot-community/issues"
+  },
+  "homepage": "https://github.com/fontoms/discord-selfbot-community#readme",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.4.5",
+    "dotenv": "^16.4.7"
+  }
+}
